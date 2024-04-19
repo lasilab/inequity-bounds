@@ -23,8 +23,8 @@ python semi_synth.py
 
 To install requirements, setup a conda environment using the following commands:
 ``` 
-conda create -n fair python=3.11 pip 
-conda activate fair
+conda create -n fairness python=3.11 pip 
+conda activate fairness
 pip install -r requirements.txt
 ```
 
@@ -35,4 +35,4 @@ This repository is licensed under the terms of the [MIT License](https://github.
 ## Questions?
 
 For more details, refer to the accompanying paper: [Auditing Fairness under Unobserved Confounding](https://arxiv.org/abs/2403.14713). 
-If you have questions, please feel free to reach us at yewonb@cs.cmu.edu or open an issue.
+If you have questions, please feel free to reach us at yewonb@cs.cmu.edu or to open an issue.
